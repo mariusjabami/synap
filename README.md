@@ -25,11 +25,11 @@ O modelo que treinei possui:
 - **1 viés (bias):** `b`  
 
 Função de saída:
-
+$$
 \[
 \text{y_pred} = (x \cdot z \cdot w_1) + \big[(x \cdot z)^2 \cdot w_2\big] + b
 \]
-
+$$
 📌 **Total de parâmetros:** 3 (2 pesos + 1 bias)
 
 Esse formato gera uma superfície **não linear** (parecida com um pano curvado em 3D), permitindo melhor ajuste dos dados.
