@@ -76,7 +76,7 @@ onde `η` é a **taxa de aprendizado**.
 
 ## ⚖️ Licença
 
-Open Source – você pode usar e modificar, mas **deixe os créditos**.
+Open Source – você pode usar e modificar, mas **deixe os créditos para mim**.
 
 ---
 
